@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "ho_ten": "Nguyen Van A",
+            "ma_sv": "PH12345",
+            "chuyen_nganh": "udpm",
+            "gioi_tinh": 1
+        },
+        {
+            "id": 2,
+            "ho_ten": "Tran Van B",
+            "ma_sv": "PH12346",
+            "chuyen_nganh": "tktw",
+            "gioi_tinh": 1
+        },{
+            "id": 3,
+            "ho_ten": "Dang Thi C",
+            "ma_sv": "PH12344",
+            "chuyen_nganh": "ltmt",
+            "gioi_tinh": 0
+        }
+    ]
+}
